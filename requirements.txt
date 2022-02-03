@@ -1,0 +1,10 @@
+sklearn
+requests
+fake_useragent
+bs4
+beautifulsoup4
+spacy==2.2.0
+pandas 
+Unidecode
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.2.0/en_core_web_md-2.2.0.tar.gz#egg=en_core_web_md
+python-dotenv==0.18.0
